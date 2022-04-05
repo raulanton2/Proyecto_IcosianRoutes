@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316993521685",
+    "project_id": "proyectoicosianroutes",
+    "storage_bucket": "proyectoicosianroutes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316993521685:android:5bdc7831ea46916eefa61c",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_icosianroutes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316993521685-bj21lkh114ku76efmd8im1lsvfeugotl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKVpzRKGF0zQELnvXlIlyhF0Iv9R80yI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316993521685-bj21lkh114ku76efmd8im1lsvfeugotl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
